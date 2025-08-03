@@ -1,4 +1,4 @@
-# Binary-Tree
+# Binary-Tree-DFS
 ## All Patterns of DFS questions in Binary Tree 
 
 ##  Leetcode: Link:https://leetcode.com/problems/path-sum/
