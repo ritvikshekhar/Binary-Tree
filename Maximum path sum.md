@@ -29,7 +29,7 @@
  */
 class Solution {
 public:
-// max that can be found this that node using its below node
+// max that can be found till this node using its below node
     int fn(TreeNode* root,int &maxi){
         if(root==nullptr)return 0;
         int left=fn(root->left,maxi);
